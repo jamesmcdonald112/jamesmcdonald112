@@ -21,7 +21,7 @@ I aim to become deeply knowledgeable in programming, earn a wealth of certificat
 While I still need to become active in software development communities, I'm open to opportunities that align with my passion for growth and collaboration.
 
 ## A Note on Music 🎵
-Outside of coding, music is my world. I teach music, have a first-class honours degree in the subject, play multiple instruments, have been awarded first prize in three competitions, and continue my studies in classical composition. The discipline and creativity in music parallel the skills necessary for innovative software development.
+I am a music teacher music, have a first-class honours degree in the subject, play classical guitar and piano, have been awarded first prize in three competitions, and continue my studies in classical composition. The discipline and creativity in music parallel the skills necessary for innovative software development.
 
 ## Let's Connect 🤝
 Feel free to reach out if you have any ideas for collaboration, need help with a project, or want to chat about tech (or music!).
