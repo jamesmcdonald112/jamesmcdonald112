@@ -5,6 +5,12 @@
 ## Description
 Welcome to my academic portfolio, showcasing a selection of Java applications I've developed at Galway-Mayo Institute of Technology. Here, you'll find everything from encryption algorithms to network communication systems, each reflecting my education in software development.
 
+## Highlighted Repositories
+- [Sentiment Analysis with Virtual Threads](https://github.com/jamesmcdonald112/Sentiment-Analysis-with-Virtual-Threads)
+- [Java Network Chat using Socket API](https://github.com/jamesmcdonald112/Java-Network-Chat-SocketAPI)
+- [File Encryption using 2D Arrays](https://github.com/jamesmcdonald112/File-Encryption-using-2D-Arrays)
+
+
 ## Upcoming Modules 🌱
 As I continue my studies, I look forward to diving into Computational Thinking with Algorithms, Database Design and Development, and Web Applications Development. I'm excited to learn the associated technologies and languages. Stay tuned for new projects!
 
