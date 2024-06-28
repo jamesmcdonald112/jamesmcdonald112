@@ -9,7 +9,7 @@ Welcome to my academic portfolio, showcasing a selection of Java applications I'
 - 🧠 [Sentiment Analysis with Virtual Threads](https://github.com/jamesmcdonald112/Sentiment-Analysis-with-Virtual-Threads): A Java application for text sentiment analysis using virtual threads.
 - 💬 [Java Network Chat using Socket API](https://github.com/jamesmcdonald112/Java-Network-Chat-SocketAPI): A real-time chat application built with Java's Socket API.
 - 🔐 [File Encryption using 2D Arrays](https://github.com/jamesmcdonald112/File-Encryption-using-2D-Arrays): Secure file encryption algorithm implemented with 2D arrays in Java.
-- 🧩 [Bulls and Cows Game:]([url](https://github.com/jamesmcdonald112/bullsAndCows)) A code-breaking game where players try to guess a secret code.
+- 🧩 [Bulls and Cows Game](https://github.com/jamesmcdonald112/bullsAndCows): A code-breaking game where players try to guess a secret code.
 
 ## Upcoming Modules 🌱
 As I continue my studies, I look forward to diving into Computational Thinking with Algorithms, Database Design and Development, and Web Applications Development. I'm excited to learn the associated technologies and languages. Stay tuned for new projects!
