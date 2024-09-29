@@ -7,7 +7,6 @@ I’m a passionate software developer student interested in backend development,
 ## 🏆 Highlighted College Projects
 
 ### 🧠 Sentiment Analysis with Virtual Threads (College - Grade: 92%)
-[click here]([url](https://github.com/jamesmcdonald112/Sentiment-Analysis-with-Virtual-Threads))
 - A Java application that processes tweets using virtual threads for efficient sentiment analysis.
 
 ### 💬 [Java Network Chat using Socket API (College - Grade: 90%)]([url](https://github.com/jamesmcdonald112/Java-Network-Chat-SocketAPI))
