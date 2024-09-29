@@ -6,85 +6,85 @@ I’m a passionate software developer student interested in backend development,
 
 ## 🏆 Highlighted College Projects
 
-### 🧠 Sentiment Analysis with Virtual Threads (College - Grade: 92%)
+### 🧠 [Sentiment Analysis with Virtual Threads (College - Grade: 92%)]([url](https://github.com/jamesmcdonald112/Sentiment-Analysis-with-Virtual-Threads))
 - A Java application that processes tweets using virtual threads for efficient sentiment analysis.
 
-### 💬 Java Network Chat using Socket API (College - Grade: 90%)
+### 💬 [Java Network Chat using Socket API (College - Grade: 90%)]([url](https://github.com/jamesmcdonald112/Java-Network-Chat-SocketAPI))
 - A real-time chat application built with Java’s Socket API, enabling dynamic communication between clients via a multi-threaded server.
 
-### 🔐 ADFGVX Cipher Project (Grade: 94%)
+### 🔐 [ADFGVX Cipher Project (Grade: 94%)]([url](https://github.com/jamesmcdonald112/File-Encryption-using-2D-Arrays))
 - Encrypts and decrypts text using the ADFGVX cipher, featuring a customisable cipher key and file parsing.
 
-### 🔍 Computational Thinking with Algorithms (College - Grade: 88%)
+### 🔍 [Computational Thinking with Algorithms (College - Grade: 88%)]([url](https://github.com/jamesmcdonald112/computationalAlgorithmsProject))
 - Implemented and benchmarked sorting algorithms (Bubble, Selection, Insertion, Merge, and Counting Sort) across various array sizes, with detailed performance analysis in a PDF report.
 
-### 🏟️ Database Design Project (College - Grade: 87%)
+### 🏟️ [Database Design Project (College - Grade: 87%)]([url](https://github.com/jamesmcdonald112/databaseDesignProject))
 - Designed and implemented a sports club database with mySQL scripts for table creation, data insertion, and advanced queries, including joins and subqueries. Includes an ER diagram for database structure.
 
-### ⌚ WatchShop - Web Development Project (College - Grade: 70%)
+### ⌚ [WatchShop - Web Development Project (College - Grade: 70%)]([url](https://github.com/jamesmcdonald112/webDevelopmentProject))
 - E-commerce platform built with Node.js, Express, MySQL, and EJS, featuring product browsing, a shopping cart, checkout simulation, and a responsive design.
 
 ---
 
 ## Hyperskill - Introduction to Java Certificate (Complete)
 
-### 🚢 Battleship Game
+### 🚢 [Battleship Game]([url](https://github.com/jamesmcdonald112/battleshipWithJava))
 - A command-line implementation of the classic game Battleship. Manages player turns, ship placement, and victory conditions.
 
-### 📊 Readability Score Calculator
+### 📊 [Readability Score Calculator]([url](https://github.com/jamesmcdonald112/readabilityScoreJava))
 - Calculates various readability indices such as ARI, Flesch-Kincaid, SMOG, and Coleman-Liau for a text file.
 
-### ☕ Coffee Machine Simulator
+### ☕ [Coffee Machine Simulator]([url](https://github.com/jamesmcdonald112/coffeeMachineSimulatorWithJava))
 - Simulates a coffee machine that manages ingredients, cash, and customer orders with a menu-driven interface.
 
-### 🎟️ Cinema Ticket Booking System
+### 🎟️ [Cinema Ticket Booking System]([url](https://github.com/jamesmcdonald112/cinemaRoomManager))
 - A system that allows users to book cinema seats, track income, and display booking statistics. Features robust user input handling and error management.
 
-### ✏️ Last Pencil Game
+### ✏️ [Last Pencil Game]([url](https://github.com/jamesmcdonald112/lastPencil))
 - A turn-based game where players remove pencils from a pile. Includes a bot with a winning strategy for a more challenging experience.
   
-### 🛡️ Chuck Norris Cipher Encoder/Decoder
+### 🛡️ [Chuck Norris Cipher Encoder/Decoder]([url](https://github.com/jamesmcdonald112/chuckNorrisCipherEncoderJava))
 - A command-line application that encodes and decodes messages using the Chuck Norris cipher technique.
 
-### 🧩 Bulls and Cows Game
+### 🧩 [Bulls and Cows Game]([url](https://github.com/jamesmcdonald112/bullsAndCows))
 - A classic code-breaking game where players try to guess a secret code.
 
-### 🦁 Zookeeper with Java
+### 🦁 [Zookeeper with Java]([url](https://github.com/jamesmcdonald112/zookeeperWithJava))
 - A console-based application that allows users to view different animal habitats by selecting habitat numbers.
 
-###	🤖 Simple Chat Bot (Java)
+###	🤖 [Simple Chat Bot (Java)]([url](https://github.com/jamesmcdonald112/simpleChatBotWithJava))
 - A basic Java implementation of a chatbot that prompts users for their names and responds with a greeting.
 
-### 🎒 My First Java Project (Net Income Calculator)
+### 🎒 [My First Java Project (Net Income Calculator)]([url](https://github.com/jamesmcdonald112/myFirstProjectWithJava))
 - A Java application that calculates the total earnings for products and net income after deducting expenses.
 
 ---
 
 ## Other Projects
 
-### 💻 Hotel BT Website (HTML, CSS)
+### 💻 [Hotel BT Website (HTML, CSS)]([url](https://github.com/jamesmcdonald112/hotel_website))
 - A sleek, modern, multi-page website for a fictional hotel. Built with HTML, CSS, and responsive design principles.
 
-### 🎯 Spin the Bottle Game (JavaScript)
+### 🎯 [Spin the Bottle Game (JavaScript)]([url](https://github.com/jamesmcdonald112/spinTheBottle))
 - A JavaScript game where players take turns spinning a virtual bottle to randomly select a player.
 
-### ⏱️ Simple Stopwatch (JavaScript)
+### ⏱️ [Simple Stopwatch (JavaScript)]([url](https://github.com/jamesmcdonald112/simpleStopwatch))
 - A web-based stopwatch application that allows users to start, stop, reset, and record lap times.
 
-### 📝 Case Converter (JavaScript)
+### 📝 [Case Converter (JavaScript)]([url](https://github.com/jamesmcdonald112/caseConverter))
 - A web-based application that converts text between different cases (uppercase, lowercase, sentence case, etc.) and saves it as a file.
 
-### 🤖 Simple Chat Bot (JavaScript)
+### 🤖 [Simple Chat Bot (JavaScript)]([url](https://github.com/jamesmcdonald112/chatty_bot))
 - An interactive JavaScript bot that engages users with greetings, age guessing, and a programming knowledge quiz.
 
-### 🧮 Net Income Calculator (JavaScript)
+### 🧮 [Net Income Calculator (JavaScript)]([url](https://github.com/jamesmcdonald112/calculate_net_income))
 - A simple JavaScript program that calculates the net income of a small corner shop by deducting expenses from earnings.
 
 ---
 
 ### Ongoing projects
 
-#### 🎲 Tic-Tac-Toe with AI
+#### 🎲 [Tic-Tac-Toe with AI]([url](https://github.com/jamesmcdonald112/TicTacToeWithAIJava))
 - A simple implementation of Tic-Tac-Toe with an AI opponent. Features modular design and a focus on code cleanliness.
 
 ---
