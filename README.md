@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m a passionate software developer student interested in backend development, focusing on Java. I enjoy building programs and solving real-world problems through software. My portfolio includes a variety of projects, both college and self-interest, ranging from encryption algorithms to network communication and sentiment analysis.
+I’m a passionate software developer student interested in backend development with a focus on Java. I enjoy building programs and solving real-world problems through software. My portfolio includes a variety of projects, both college and self-interest, ranging from encryption algorithms to network communication and sentiment analysis.
 
 ## 🏆 Highlighted College Projects
 
