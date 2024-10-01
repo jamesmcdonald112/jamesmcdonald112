@@ -82,7 +82,10 @@ I’m a passionate software developer student interested in backend development 
 
 ---
 
-### Ongoing projects
+### Current Study
+
+#### ![TypeScript](https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=typescript&logoColor=white) [TypeScript Sandbox](https://github.com/jamesmcdonald112/typescriptSandBox)
+- General notes and testing ideas. No projects.
 
 #### 🎲 [Tic-Tac-Toe with AI](https://github.com/jamesmcdonald112/TicTacToeWithAIJava)
 - A simple implementation of Tic-Tac-Toe with an AI opponent. Features modular design and a focus on code cleanliness.
