@@ -84,8 +84,9 @@ I’m a passionate software developer student interested in backend development 
 
 ### Current Study
 
-#### ![TypeScript](https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=typescript&logoColor=white) [TypeScript Sandbox](https://github.com/jamesmcdonald112/typescriptSandBox)
-- General notes and testing ideas. No projects.
+### 📱 [Angular Basics with Ionic - Simple Todo App](https://github.com/jamesmcdonald112/AngularBasicsforIonic_SimpleTodoApp)
+- Currently working through Ionic Academy projects and lessons to strengthen my understanding of Angular and its integration with Ionic.
+- This project involves learning the fundamentals of Angular, component interaction, and how to build a basic Todo application using Ionic’s framework.
 
 #### 🎲 [Tic-Tac-Toe with AI](https://github.com/jamesmcdonald112/TicTacToeWithAIJava)
 - A simple implementation of Tic-Tac-Toe with an AI opponent. Features modular design and a focus on code cleanliness.
