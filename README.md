@@ -62,7 +62,7 @@ I’m a passionate software developer student interested in backend development 
 
 ## 📊 Databases with SQL and Python
 
-### 🦁 Zookeeper with Python
+### [🦁 Zookeeper with Python](https://github.com/jamesmcdonald112/zookeeper-python)
 - A console-based Python application that allows users to explore different animal habitats by selecting habitat numbers.
 
 ---
