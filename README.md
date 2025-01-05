@@ -91,6 +91,9 @@ I’m a passionate software developer student interested in backend development 
 
 ### Current Study
 
+### 🖥️ [Scrimba Mini Projects](https://github.com/jamesmcdonald112/ScrimbaMiniProjects)
+- These projects were created as part of my learning journey on Scrimba. They demonstrate foundational web development skills, including HTML, CSS, JavaScript, and advanced frontend concepts.
+
 ### 📱 [Angular Basics with Ionic - Simple Todo App](https://github.com/jamesmcdonald112/AngularBasicsforIonic_SimpleTodoApp)
 - Currently working through Ionic Academy projects and lessons to strengthen my understanding of Angular and its integration with Ionic.
 - This project involves learning the fundamentals of Angular, component interaction, and how to build a basic Todo application using Ionic’s framework.
