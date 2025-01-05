@@ -6,56 +6,56 @@ I’m a passionate software developer student interested in backend development 
 
 ## 🏆 Highlighted College Projects
 
-### 🧠 [Sentiment Analysis with Virtual Threads (College - Grade: 92%)](https://github.com/jamesmcdonald112/Sentiment-Analysis-with-Virtual-Threads)
+### 🧠 [Sentiment Analysis with Virtual Threads (College - Grade: 92%)](https://github.com/jamesmcdonald112/sentiment-analysis-with-virtual-threads)
 - A Java application that processes tweets using virtual threads for efficient sentiment analysis.
 
-### 💬 [Java Network Chat using Socket API (College - Grade: 90%)](https://github.com/jamesmcdonald112/Java-Network-Chat-SocketAPI)
+### 💬 [Java Network Chat using Socket API (College - Grade: 90%)](https://github.com/jamesmcdonald112/java-network-chat-socket-api)
 - A real-time chat application built with Java’s Socket API, enabling dynamic communication between clients via a multi-threaded server.
 
-### 🔐 [ADFGVX Cipher Project (Grade: 94%)](https://github.com/jamesmcdonald112/File-Encryption-using-2D-Arrays)
+### 🔐 [ADFGVX Cipher Project (Grade: 94%)](https://github.com/jamesmcdonald112/file-encryption-using-2d-arrays)
 - Encrypts and decrypts text using the ADFGVX cipher, featuring a customisable cipher key and file parsing.
 
-### 🔍 [Computational Thinking with Algorithms (College - Grade: 88%)](https://github.com/jamesmcdonald112/computationalAlgorithmsProject)
+### 🔍 [Computational Thinking with Algorithms (College - Grade: 88%)](https://github.com/jamesmcdonald112/computational-algorithms-project)
 - Implemented and benchmarked sorting algorithms (Bubble, Selection, Insertion, Merge, and Counting Sort) across various array sizes, with detailed performance analysis in a PDF report.
 
-### 🏟️ [Database Design Project (College - Grade: 87%)](https://github.com/jamesmcdonald112/databaseDesignProject)
+### 🏟️ [Database Design Project (College - Grade: 87%)](https://github.com/jamesmcdonald112/database-design-project)
 - Designed and implemented a sports club database with mySQL scripts for table creation, data insertion, and advanced queries, including joins and subqueries. Includes an ER diagram for database structure.
 
-### ⌚ [WatchShop - Web Development Project (College - Grade: 70%)](https://github.com/jamesmcdonald112/webDevelopmentProject)
+### ⌚ [WatchShop - Web Development Project (College - Grade: 70%)](https://github.com/jamesmcdonald112/web-development-project)
 - E-commerce platform built with Node.js, Express, MySQL, and EJS, featuring product browsing, a shopping cart, checkout simulation, and a responsive design.
 
 ---
 
 ## Hyperskill - Introduction to Java Certificate (Complete)
 
-### 🚢 [Battleship Game](https://github.com/jamesmcdonald112/battleshipWithJava)
+### 🚢 [Battleship Game](https://github.com/jamesmcdonald112/battleship-with-java)
 - A command-line implementation of the classic game Battleship. Manages player turns, ship placement, and victory conditions.
 
-### 📊 [Readability Score Calculator](https://github.com/jamesmcdonald112/readabilityScoreJava)
+### 📊 [Readability Score Calculator](https://github.com/jamesmcdonald112/readability-score-java)
 - Calculates various readability indices such as ARI, Flesch-Kincaid, SMOG, and Coleman-Liau for a text file.
 
-### ☕ [Coffee Machine Simulator](https://github.com/jamesmcdonald112/coffeeMachineSimulatorWithJava)
+### ☕ [Coffee Machine Simulator](https://github.com/jamesmcdonald112/coffee-machine-simulator-with-java)
 - Simulates a coffee machine that manages ingredients, cash, and customer orders with a menu-driven interface.
 
-### 🎟️ [Cinema Ticket Booking System](https://github.com/jamesmcdonald112/cinemaRoomManager)
+### 🎟️ [Cinema Ticket Booking System](https://github.com/jamesmcdonald112/cinema-room-manager)
 - A system that allows users to book cinema seats, track income, and display booking statistics. Features robust user input handling and error management.
 
-### ✏️ [Last Pencil Game](https://github.com/jamesmcdonald112/lastPencil)
+### ✏️ [Last Pencil Game](https://github.com/jamesmcdonald112/last-pencil)
 - A turn-based game where players remove pencils from a pile. Includes a bot with a winning strategy for a more challenging experience.
 
-### 🛡️ [Chuck Norris Cipher Encoder/Decoder](https://github.com/jamesmcdonald112/chuckNorrisCipherEncoderJava)
+### 🛡️ [Chuck Norris Cipher Encoder/Decoder](https://github.com/jamesmcdonald112/chuck-norris-cipher-encoder-java)
 - A command-line application that encodes and decodes messages using the Chuck Norris cipher technique.
 
-### 🧩 [Bulls and Cows Game](https://github.com/jamesmcdonald112/bullsAndCows)
+### 🧩 [Bulls and Cows Game](https://github.com/jamesmcdonald112/bulls-and-cows)
 - A classic code-breaking game where players try to guess a secret code.
 
-### 🦁 [Zookeeper with Java](https://github.com/jamesmcdonald112/zookeeperWithJava)
+### 🦁 [Zookeeper with Java](https://github.com/jamesmcdonald112/zookeeper-with-java)
 - A console-based application that allows users to view different animal habitats by selecting habitat numbers.
 
-### 🤖 [Simple Chat Bot (Java)](https://github.com/jamesmcdonald112/simpleChatBotWithJava)
+### 🤖 [Simple Chat Bot (Java)](https://github.com/jamesmcdonald112/simple-chat-bot-with-java)
 - A basic Java implementation of a chatbot that prompts users for their names and responds with a greeting.
 
-### 🎒 [My First Java Project (Net Income Calculator)](https://github.com/jamesmcdonald112/myFirstProjectWithJava)
+### 🎒 [My First Java Project (Net Income Calculator)](https://github.com/jamesmcdonald112/my-first-project-with-java)
 - A Java application that calculates the total earnings for products and net income after deducting expenses.
 
 ---
@@ -72,13 +72,13 @@ I’m a passionate software developer student interested in backend development 
 ### 💻 [Hotel BT Website (HTML, CSS)](https://github.com/jamesmcdonald112/hotel_website)
 - A sleek, modern, multi-page website for a fictional hotel. Built with HTML, CSS, and responsive design principles.
 
-### 🎯 [Spin the Bottle Game (JavaScript)](https://github.com/jamesmcdonald112/spinTheBottle)
+### 🎯 [Spin the Bottle Game (JavaScript)](https://github.com/jamesmcdonald112/spin-the-bottle)
 - A JavaScript game where players take turns spinning a virtual bottle to randomly select a player.
 
-### ⏱️ [Simple Stopwatch (JavaScript)](https://github.com/jamesmcdonald112/simpleStopwatch)
+### ⏱️ [Simple Stopwatch (JavaScript)](https://github.com/jamesmcdonald112/simple-stopwatch)
 - A web-based stopwatch application that allows users to start, stop, reset, and record lap times.
 
-### 📝 [Case Converter (JavaScript)](https://github.com/jamesmcdonald112/caseConverter)
+### 📝 [Case Converter (JavaScript)](https://github.com/jamesmcdonald112/case-converter)
 - A web-based application that converts text between different cases (uppercase, lowercase, sentence case, etc.) and saves it as a file.
 
 ### 🤖 [Simple Chat Bot (JavaScript)](https://github.com/jamesmcdonald112/chatty_bot)
@@ -91,7 +91,7 @@ I’m a passionate software developer student interested in backend development 
 
 ### Current Study
 
-### 🖥️ [Scrimba Mini Projects](https://github.com/jamesmcdonald112/ScrimbaMiniProjects)
+### 🖥️ [Scrimba Mini Projects](https://github.com/jamesmcdonald112/scrimba-mini-projects)
 - These projects were created as part of my learning journey on Scrimba. They demonstrate foundational web development skills, including HTML, CSS, JavaScript, and advanced frontend concepts.
 
 ### 📱 [Angular Basics with Ionic - Simple Todo App](https://github.com/jamesmcdonald112/AngularBasicsforIonic_SimpleTodoApp)
