@@ -62,11 +62,14 @@ I’m a passionate software developer student interested in backend development 
 
 ## 📊 Databases with SQL and Python
 
-### [🦁 Zookeeper with Python](https://github.com/jamesmcdonald112/zookeeper-python)
-- A console-based Python application that allows users to explore different animal habitats by selecting habitat numbers.
+### 🤖 [Simple Chat Bot (Python)](https://github.com/jamesmcdonald112/simple-chat-bot-with-python)
+- An interactive Python bot that engages users with greetings, age guessing, and a programming knowledge quiz.
 
 ### 🎒 [My First Python Project (Net Income Calculator)](https://github.com/jamesmcdonald112/my-first-python-project)
 - A beginner-friendly Python program that calculates the total earnings from product sales and determines the net income after deducting staff and other expenses. 
+
+### [🦁 Zookeeper with Python](https://github.com/jamesmcdonald112/zookeeper-python)
+- A console-based Python application that allows users to explore different animal habitats by selecting habitat numbers.
 
 ---
 
