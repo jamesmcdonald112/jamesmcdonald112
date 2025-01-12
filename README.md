@@ -62,6 +62,9 @@ I’m a passionate software developer student interested in backend development 
 
 ## 📊 Databases with SQL and Python
 
+### [🎨 Coloring (SQL)](https://github.com/jamesmcdonald112/coloring-sql)
+- A hands-on SQL project focused on a painting database, designed to learn essential database skills. This project involved finding patterns in painting data, calculating paint usage, identifying white squares, and analysing spray can usage with advanced SQL techniques like joins, subqueries, aggregations, and the HAVING clause. Completed as part of the Databases with SQL and Python course.
+
 ### 🤖 [Simple Chat Bot (Python)](https://github.com/jamesmcdonald112/simple-chat-bot-with-python)
 - An interactive Python bot that engages users with greetings, age guessing, and a programming knowledge quiz.
 
