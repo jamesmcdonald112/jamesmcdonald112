@@ -62,6 +62,9 @@ I’m a passionate software developer student interested in backend development 
 
 ## 📊 Databases with SQL and Python
 
+### [🚢 Battleship Database Queries (SQL)](https://github.com/jamesmcdonald112/battleship-database)
+- Analyse WWII battleships and naval battles using SQL. Includes queries for ship outcomes, class firepower, and sunken ships by country, with a detailed database schema.
+ 
 ### [🎨 Coloring (SQL)](https://github.com/jamesmcdonald112/coloring-sql)
 - Explored a painting database using joins, subqueries, and aggregations to analyze spray can usage, paint totals, and white squares.
 
