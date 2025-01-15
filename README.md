@@ -28,7 +28,10 @@ I’m a passionate software developer student interested in backend development 
 - A streamlined Ionic application fetching real-time country data, breaking news, and weather updates via RestCountries, NewsData.io, and OpenWeatherMap APIs.
 
 ### [🏦 Banking Application Test Suite (JUNIT)](https://github.com/jamesmcdonald112/BankingApp)
-- A refactored Java banking application with a comprehensive JUnit 5 test suite. This project demonstrates testing techniques, including parameterized tests, timeout handling, and exception testing. 
+- A refactored Java banking application with a comprehensive JUnit 5 test suite. This project demonstrates testing techniques, including parameterized tests, timeout handling, and exception testing.
+
+### 🌐 [ChromeOS Insights Website](https://github.com/jamesmcdonald112/chromeOS-insights-website/tree/main)
+- A professionally designed WordPress website hosted on an AWS LAMP server, providing comprehensive insights into ChromeOS. This project features custom branding, dynamic content with videos and graphs, and analytics tracking using Matomo.
 
 ---
 
