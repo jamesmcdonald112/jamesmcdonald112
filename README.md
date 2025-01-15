@@ -12,7 +12,7 @@ I’m a passionate software developer student interested in backend development 
 ### 💬 [Java Network Chat using Socket API (College - Grade: 90%)](https://github.com/jamesmcdonald112/java-network-chat-socket-api)
 - A real-time chat application built with Java’s Socket API, enabling dynamic communication between clients via a multi-threaded server.
 
-### 🔐 [ADFGVX Cipher Project (Grade: 94%)](https://github.com/jamesmcdonald112/file-encryption-using-2d-arrays)
+### 🔐 [ADFGVX Cipher Project (College - Grade: 94%)](https://github.com/jamesmcdonald112/file-encryption-using-2d-arrays)
 - Encrypts and decrypts text using the ADFGVX cipher, featuring a customisable cipher key and file parsing.
 
 ### 🔍 [Computational Thinking with Algorithms (College - Grade: 88%)](https://github.com/jamesmcdonald112/computational-algorithms-project)
@@ -27,7 +27,7 @@ I’m a passionate software developer student interested in backend development 
 ### [☀️ Country, News & Weather App](https://github.com/jamesmcdonald112/CountryNewsWeatherApp)
 - A streamlined Ionic application fetching real-time country data, breaking news, and weather updates via RestCountries, NewsData.io, and OpenWeatherMap APIs.
 
-### [🏦 Banking Application Test Suite (JUNIT)](https://github.com/jamesmcdonald112/BankingApp)
+### [🏦 Banking Application Test Suite (JUNIT) - (College - Grade: 90%)](https://github.com/jamesmcdonald112/BankingApp)
 - A refactored Java banking application with a comprehensive JUnit 5 test suite. This project demonstrates testing techniques, including parameterized tests, timeout handling, and exception testing.
 
 ### 🌐 [ChromeOS Insights Website](https://github.com/jamesmcdonald112/chromeOS-insights-website/tree/main)
