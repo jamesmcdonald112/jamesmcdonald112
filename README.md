@@ -24,6 +24,9 @@ I’m a passionate software developer student interested in backend development 
 ### ⌚ [WatchShop - Web Development Project (College - Grade: 70%)](https://github.com/jamesmcdonald112/web-development-project)
 - E-commerce platform built with Node.js, Express, MySQL, and EJS, featuring product browsing, a shopping cart, checkout simulation, and a responsive design.
 
+### [☀️ Country, News & Weather App](https://github.com/jamesmcdonald112/CountryNewsWeatherApp)
+- A streamlined Ionic application fetching real-time country data, breaking news, and weather updates via RestCountries, NewsData.io, and OpenWeatherMap APIs. 
+
 ---
 
 ## Hyperskill - Introduction to Java Certificate (Complete)
