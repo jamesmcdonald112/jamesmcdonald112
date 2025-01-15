@@ -25,7 +25,10 @@ I’m a passionate software developer student interested in backend development 
 - E-commerce platform built with Node.js, Express, MySQL, and EJS, featuring product browsing, a shopping cart, checkout simulation, and a responsive design.
 
 ### [☀️ Country, News & Weather App](https://github.com/jamesmcdonald112/CountryNewsWeatherApp)
-- A streamlined Ionic application fetching real-time country data, breaking news, and weather updates via RestCountries, NewsData.io, and OpenWeatherMap APIs. 
+- A streamlined Ionic application fetching real-time country data, breaking news, and weather updates via RestCountries, NewsData.io, and OpenWeatherMap APIs.
+
+### [🏦 Banking Application Test Suite (JUNIT)](https://github.com/jamesmcdonald112/BankingApp)
+- A refactored Java banking application with a comprehensive JUnit 5 test suite. This project demonstrates testing techniques, including parameterized tests, timeout handling, and exception testing. 
 
 ---
 
