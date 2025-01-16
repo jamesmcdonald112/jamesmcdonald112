@@ -88,7 +88,10 @@ I’m a passionate software developer student interested in backend development 
 
 ---
 
-## Other Projects
+## HTML | CSS | JavaScript Projects
+
+### 🏀  [Scoreboard App (HTML, CSS, JavaScript)](https://github.com/jamesmcdonald112/basketball-scorecard)
+- A dynamic web application for tracking the scores of two teams.
 
 ### 💻 [Hotel BT Website (HTML, CSS)](https://github.com/jamesmcdonald112/hotel_website)
 - A sleek, modern, multi-page website for a fictional hotel. Built with HTML, CSS, and responsive design principles.
