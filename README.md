@@ -90,6 +90,9 @@ I’m a passionate software developer student interested in backend development 
 
 ## HTML | CSS | JavaScript Projects
 
+### 🃏 [Blackjack Game (HTML, CSS, JavaScript)](https://github.com/jamesmcdonald112/blackjack-javascript)
+- A browser-based card game where players aim to hit 21 without going bust. Includes dynamic updates, simple game logic, and a polished interface.
+
 ### 🏀  [Scoreboard App (HTML, CSS, JavaScript)](https://github.com/jamesmcdonald112/basketball-scorecard)
 - A dynamic web application for tracking the scores of two teams.
 
