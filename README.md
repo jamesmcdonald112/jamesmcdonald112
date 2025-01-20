@@ -90,6 +90,9 @@ I’m a passionate software developer student interested in backend development 
 
 ## HTML | CSS | JavaScript Projects
 
+### [🔗 Lead Tracker App](https://github.com/jamesmcdonald112/lead-tracker/blob/main/README.md)
+- A simple JavaScript-based web app that lets you save, manage, and organise links or browser tabs. Includes features like saving links, dynamic list rendering, and local storage for persistent data.
+
 ### [🔑 Password Generator](https://github.com/jamesmcdonald112/password-generator)
 - A web-based application that generates random, secure passwords of customisable lengths (5–15 characters). Features include dynamic password generation and copy-to-clipboard functionality for quick access.
 
