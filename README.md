@@ -90,16 +90,19 @@ I’m a passionate software developer student interested in backend development 
 
 ## HTML | CSS | JavaScript Projects
 
+### [🧮 Unit Conversion Tool](https://github.com/jamesmcdonald112/unit-converter)
+- A web-based tool that dynamically converts between units of length (meters/feet), volume (litres/gallons), and mass (kilograms/pounds). Designed for simplicity and accuracy, it features a user-friendly interface and leverages concise JavaScript logic for calculations.
+
 ### [🔗 Lead Tracker App](https://github.com/jamesmcdonald112/lead-tracker/blob/main/README.md)
 - A simple JavaScript-based web app that lets you save, manage, and organise links or browser tabs. Includes features like saving links, dynamic list rendering, and local storage for persistent data.
 
 ### [🔑 Password Generator](https://github.com/jamesmcdonald112/password-generator)
 - A web-based application that generates random, secure passwords of customisable lengths (5–15 characters). Features include dynamic password generation and copy-to-clipboard functionality for quick access.
 
-### 🃏 [Blackjack Game (HTML, CSS, JavaScript)](https://github.com/jamesmcdonald112/blackjack-javascript)
+### 🃏 [Blackjack Game](https://github.com/jamesmcdonald112/blackjack-javascript)
 - A browser-based card game where players aim to hit 21 without going bust. Includes dynamic updates, simple game logic, and a polished interface.
 
-### 🏀  [Scoreboard App (HTML, CSS, JavaScript)](https://github.com/jamesmcdonald112/basketball-scorecard)
+### 🏀  [Scoreboard App](https://github.com/jamesmcdonald112/basketball-scorecard)
 - A dynamic web application for tracking the scores of two teams.
 
 ### 💻 [Hotel BT Website (HTML, CSS)](https://github.com/jamesmcdonald112/hotel_website)
