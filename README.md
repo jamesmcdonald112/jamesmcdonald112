@@ -90,6 +90,9 @@ I’m a passionate software developer student interested in backend development 
 
 ## HTML | CSS | JavaScript Projects
 
+### 📷 [Oldagram - Social Media Post Renderer](https://github.com/jamesmcdonald112/oldagram/blob/main/README.md)
+- A dynamic web application that simulates an Instagram feed. Posts are rendered programmatically using JavaScript and styled with modern CSS. Features user profiles, post images, and engagement icons.
+
 ### [🧮 Unit Conversion Tool](https://github.com/jamesmcdonald112/unit-converter)
 - A web-based tool that dynamically converts between units of length (meters/feet), volume (litres/gallons), and mass (kilograms/pounds). Designed for simplicity and accuracy, it features a user-friendly interface and leverages concise JavaScript logic for calculations.
 
