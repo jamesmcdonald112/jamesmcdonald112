@@ -90,6 +90,9 @@ I’m a passionate software developer student interested in backend development 
 
 ## HTML | CSS | JavaScript Projects
 
+### 🐦 [Twimba](https://github.com/jamesmcdonald112/twimba)
+- A lightweight Twitter-like app that lets users post tweets, like, retweet, reply, and delete their own tweets, with data persisting via local storage.
+
 ### 📷 [Oldagram - Social Media Post Renderer](https://github.com/jamesmcdonald112/oldagram/blob/main/README.md)
 - A dynamic web application that simulates an Instagram feed. Posts are rendered programmatically using JavaScript and styled with modern CSS. Features user profiles, post images, and engagement icons.
 
