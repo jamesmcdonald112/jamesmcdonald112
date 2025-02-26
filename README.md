@@ -90,6 +90,9 @@ I’m a passionate software developer student interested in backend development 
 
 ## HTML | CSS | JavaScript Projects
 
+### 🍔 [Restaurant Ordering App](https://github.com/jamesmcdonald112/restaurant-ordering-app-js)
+- A web-based food ordering system with a shopping cart, payment modal, and discount features.
+
 ### 🐦 [Twimba](https://github.com/jamesmcdonald112/twimba)
 - A lightweight Twitter-like app that lets users post tweets, like, retweet, reply, and delete their own tweets, with data persisting via local storage.
 
