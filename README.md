@@ -90,6 +90,9 @@ I’m a passionate software developer student interested in backend development 
 
 ## HTML | CSS | JavaScript Projects
 
+### [✨ Scrimbafy Me! ](https://github.com/jamesmcdonald112/scrimbafy-me)
+- A simple responsive web project designed to practice modern front-end techniques using HTML, CSS, and Flexbox. It features a clean, mobile-first layout and adaptive design for a seamless user experience.
+
 ### 🍔 [Restaurant Ordering App](https://github.com/jamesmcdonald112/restaurant-ordering-app-js)
 - A web-based food ordering system with a shopping cart, payment modal, and discount features.
 
