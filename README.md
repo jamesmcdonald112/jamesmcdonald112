@@ -90,7 +90,7 @@ I’m a passionate software developer student interested in backend development 
 
 ## HTML | CSS | JavaScript Projects
 
-## 📝 [Learning Journal](https://github.com/jamesmcdonald112/learning-journal)
+### 📝 [Learning Journal](https://github.com/jamesmcdonald112/learning-journal)
 - This project is a dynamic and responsive learning journal where I document my progress in web development. It features dynamically generated blog posts, a clean and accessible UI, and a mobile-first design using modern frontend technologies like JavaScript, CSS Grid, and Flexbox.
 
 
