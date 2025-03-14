@@ -90,9 +90,11 @@ I’m a passionate software developer student interested in backend development 
 
 ## HTML | CSS | JavaScript Projects
 
+### [Movie Watchlist App](https://github.com/jamesmcdonald112/movie-watchlist)
+- A simple web app to search movies and save them to a watchlist using the OMDb API.
+
 ### 📝 [Learning Journal](https://github.com/jamesmcdonald112/learning-journal)
 - This project is a dynamic and responsive learning journal where I document my progress in web development. It features dynamically generated blog posts, a clean and accessible UI, and a mobile-first design using modern frontend technologies like JavaScript, CSS Grid, and Flexbox.
-
 
 ### [✨ Scrimbafy Me! ](https://github.com/jamesmcdonald112/scrimbafy-me)
 - A simple responsive web project designed to practice modern front-end techniques using HTML, CSS, and Flexbox. It features a clean, mobile-first layout and adaptive design for a seamless user experience.
