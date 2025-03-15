@@ -33,6 +33,14 @@ I’m a passionate software developer student interested in backend development 
 ### 🌐 [ChromeOS Insights Website](https://github.com/jamesmcdonald112/chromeOS-insights-website/tree/main)
 - A professionally designed WordPress website hosted on an AWS LAMP server, providing comprehensive insights into ChromeOS. This project features custom branding, dynamic content with videos and graphs, and analytics tracking using Matomo.
 
+
+---
+
+## React Projects
+
+### 🌍 [Travel Journal](https://github.com/jamesmcdonald112/travel-journal)
+This React project showcases a collection of travel destinations with images, descriptions, and links to their locations on Google Maps.
+
 ---
 
 ## Hyperskill - Introduction to Java Certificate (Complete)
