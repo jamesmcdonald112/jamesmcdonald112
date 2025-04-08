@@ -96,6 +96,16 @@ This React project showcases a collection of travel destinations with images, de
 
 ---
 
+## REACT Projects
+
+### 🎲 [Tenzies Dice Game (React + Vite)](https://github.com/jamesmcdonald112/tenzies)
+- A simple dice game built with React and styled with CSS. Players roll and hold dice until all values match.
+
+### 🖼️ [Meme Generator (React + Vite)](https://github.com/jamesmcdonald112/meme-generator)
+- A simple React app that fetches random meme images and lets users overlay custom top and bottom text.
+ 
+---
+
 ## HTML | CSS | JavaScript Projects
 
 ### [Movie Watchlist App](https://github.com/jamesmcdonald112/movie-watchlist)
