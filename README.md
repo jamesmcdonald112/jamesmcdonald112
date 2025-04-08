@@ -38,6 +38,12 @@ I’m a passionate software developer student interested in backend development 
 
 ## React Projects
 
+### 🎲 [Tenzies Dice Game (React + Vite)](https://github.com/jamesmcdonald112/tenzies)
+- A simple dice game built with React and styled with CSS. Players roll and hold dice until all values match.
+
+### 🖼️ [Meme Generator (React + Vite)](https://github.com/jamesmcdonald112/meme-generator)
+- A simple React app that fetches random meme images and lets users overlay custom top and bottom text.
+
 ### 🌍 [Travel Journal](https://github.com/jamesmcdonald112/travel-journal)
 This React project showcases a collection of travel destinations with images, descriptions, and links to their locations on Google Maps.
 
@@ -94,16 +100,6 @@ This React project showcases a collection of travel destinations with images, de
 ### [🦁 Zookeeper with Python](https://github.com/jamesmcdonald112/zookeeper-python)
 - A console-based Python application that allows users to explore different animal habitats by selecting habitat numbers.
 
----
-
-## REACT Projects
-
-### 🎲 [Tenzies Dice Game (React + Vite)](https://github.com/jamesmcdonald112/tenzies)
-- A simple dice game built with React and styled with CSS. Players roll and hold dice until all values match.
-
-### 🖼️ [Meme Generator (React + Vite)](https://github.com/jamesmcdonald112/meme-generator)
-- A simple React app that fetches random meme images and lets users overlay custom top and bottom text.
- 
 ---
 
 ## HTML | CSS | JavaScript Projects
