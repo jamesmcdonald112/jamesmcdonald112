@@ -38,6 +38,9 @@ I’m a passionate software developer student interested in backend development 
 
 ## React Projects
 
+### 🎮 [Assembly: Endgame - Word Guessing Game](https://github.com/jamesmcdonald112/assembly-endgame)
+- A creative React word game where players must guess the word to save programming languages from extinction. Features dynamic feedback, keyboard interaction, farewell messages, and a resettable game flow.
+
 ### 🎲 [Tenzies Dice Game (React + Vite)](https://github.com/jamesmcdonald112/tenzies)
 - A simple dice game built with React and styled with CSS. Players roll and hold dice until all values match.
 
