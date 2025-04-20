@@ -2,7 +2,33 @@
 
 ## About Me
 
-I’m a passionate software developer student interested in backend development with a focus on Java. I enjoy building programs and solving real-world problems through software. My portfolio includes a variety of projects, both college and self-interest, ranging from encryption algorithms to network communication and sentiment analysis.
+I’m a passionate software developer student focused on backend development with Java — but recently I’ve expanded into full-stack development using React, TypeScript, Tailwind CSS, and Test-Driven Development with Vitest. I enjoy building clean, interactive interfaces and ensuring code quality through testing. My portfolio now includes tested frontend apps, API projects, and UI work inspired by Figma designs.
+
+---
+
+## React | TypeScript | Vitest | Tailwind Projects
+
+🪙 [Flip the Coin Game](https://github.com/jamesmcdonald112/flip-the-coin)
+
+A polished coin-flip app featuring a flipping animation with frame cycling, conditional rendering, and custom styling based on a Figma design. The project emphasises clean component architecture, TDD workflows, and responsive UI.
+
+---
+
+## React Projects
+
+### 🎮 [Assembly: Endgame - Word Guessing Game](https://github.com/jamesmcdonald112/assembly-endgame)
+- A creative React word game where players must guess the word to save programming languages from extinction. Features dynamic feedback, keyboard interaction, farewell messages, and a resettable game flow.
+
+### 🎲 [Tenzies Dice Game (React + Vite)](https://github.com/jamesmcdonald112/tenzies)
+- A simple dice game built with React and styled with CSS. Players roll and hold dice until all values match.
+
+### 🖼️ [Meme Generator (React + Vite)](https://github.com/jamesmcdonald112/meme-generator)
+- A simple React app that fetches random meme images and lets users overlay custom top and bottom text.
+
+### 🌍 [Travel Journal](https://github.com/jamesmcdonald112/travel-journal)
+This React project showcases a collection of travel destinations with images, descriptions, and links to their locations on Google Maps.
+
+---
 
 ## 🏆 Highlighted College Projects
 
@@ -32,23 +58,6 @@ I’m a passionate software developer student interested in backend development 
 
 ### 🌐 [ChromeOS Insights Website](https://github.com/jamesmcdonald112/chromeOS-insights-website/tree/main)
 - A professionally designed WordPress website hosted on an AWS LAMP server, providing comprehensive insights into ChromeOS. This project features custom branding, dynamic content with videos and graphs, and analytics tracking using Matomo.
-
-
----
-
-## React Projects
-
-### 🎮 [Assembly: Endgame - Word Guessing Game](https://github.com/jamesmcdonald112/assembly-endgame)
-- A creative React word game where players must guess the word to save programming languages from extinction. Features dynamic feedback, keyboard interaction, farewell messages, and a resettable game flow.
-
-### 🎲 [Tenzies Dice Game (React + Vite)](https://github.com/jamesmcdonald112/tenzies)
-- A simple dice game built with React and styled with CSS. Players roll and hold dice until all values match.
-
-### 🖼️ [Meme Generator (React + Vite)](https://github.com/jamesmcdonald112/meme-generator)
-- A simple React app that fetches random meme images and lets users overlay custom top and bottom text.
-
-### 🌍 [Travel Journal](https://github.com/jamesmcdonald112/travel-journal)
-This React project showcases a collection of travel destinations with images, descriptions, and links to their locations on Google Maps.
 
 ---
 
