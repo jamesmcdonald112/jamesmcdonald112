@@ -8,6 +8,9 @@ I’m a passionate software developer student focused on backend development wit
 
 ## React | TypeScript | Vitest | Tailwind Projects
 
+🎬 [Movie Search App](https://github.com/jamesmcdonald112/movie-search-app)
+- A fully responsive movie search app powered by the OMDb API. Features a search bar, clickable movie cards, detailed movie views, smooth loading states, and complete error handling. Built with a focus on clean component structure, TDD workflows, and a polished UI across all screen sizes.
+
 🪙 [Flip the Coin Game](https://github.com/jamesmcdonald112/flip-the-coin)
 
 A polished coin-flip app featuring a flipping animation with frame cycling, conditional rendering, and custom styling based on a Figma design. The project emphasises clean component architecture, TDD workflows, and responsive UI.
