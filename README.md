@@ -2,8 +2,12 @@
 
 ## About Me
 
-I’m a passionate software developer student focused on backend development with Java — but recently I’ve expanded into full-stack development using React, TypeScript, Tailwind CSS, and Test-Driven Development with Vitest. I enjoy building clean, interactive interfaces and ensuring code quality through testing. My portfolio now includes tested frontend apps, API projects, and UI work inspired by Figma designs.
+I’m a software developer focused on backend and full-stack development.  
+My strongest foundation is in **Java** and backend architecture, and I’m actively building full-stack applications with **Spring Boot**, **React**, **TypeScript**, and **SQL**.  
 
+I work with a **Test-Driven Development (TDD)** mindset using JUnit, Vitest, and React Testing Library, aiming for clean, maintainable, and production-quality code.  
+
+My projects range from backend APIs to full-stack apps, including my **Simple Banking System** (Java + Spring Boot + React), which demonstrates authentication, deposits, transfers, validation, and error handling.  
 ---
 
 ## 🌐 Full-Stack Projects (Java | React | TypeScript)
