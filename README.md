@@ -7,7 +7,6 @@ My strongest foundation is in **Java** and backend architecture, and I’m activ
 
 I work with a **Test-Driven Development (TDD)** mindset using JUnit, Vitest, and React Testing Library, aiming for clean, maintainable, and production-quality code.  
 
-My projects range from backend APIs to full-stack apps, including my Simple Banking System (Java + Spring Boot + React), which demonstrates authentication, deposits, transfers, validation, and error handling.  
 ---
 
 ## 🌐 Full-Stack Projects (Java | React | TypeScript)
