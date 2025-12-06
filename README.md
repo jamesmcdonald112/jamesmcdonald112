@@ -9,7 +9,35 @@ I work with a **Test-Driven Development (TDD)** mindset using JUnit, Vitest, and
 
 ---
 
-## 🌐 Full-Stack Projects (Java | React | TypeScript)
+## 🌐 Full-Stack Projects
+
+### 🛒 [AI-Powered E-Commerce Platform (Next.js + MongoDB + OpenAI RAG)](https://github.com/jamesmcdonald112/your-repo-name)
+
+Full-stack e-commerce application with semantic search and product-specific AI Q&A powered by OpenAI embeddings and Retrieval-Augmented Generation. Built with Next.js 15 (App Router), TypeScript, MongoDB/Mongoose, Tailwind, and a complete RAG pipeline for intelligent product assistance.
+
+#### Backend highlights:
+- Product management system with full CRUD (MongoDB + Mongoose models, schemas, validation).
+- Chunking & embedding pipeline using OpenAI text-embedding-3 models.
+- Vector-based semantic search across product descriptions, specs, and reviews.
+- RAG endpoint that retrieves top-ranked chunks and generates grounded answers using gpt-4o-mini.
+- Strict hallucination prevention: fallback messages for low-confidence or missing data.
+- API Routes built with Next.js Route Handlers, fully typed and error-handled.
+
+#### Frontend highlights:
+- Product catalogue with natural-language semantic search.
+- Product pages with image galleries, specifications, reviews, and a full AI Q&A widget.
+- Chat-style interface for asking product questions with loading states, error handling, and streaming responses.
+- Admin pages for creating and editing products, including images, specs, and reviews.
+- Global layout with navigation, cart provider, and UI built using shadcn/ui + Tailwind v4.
+
+#### AI / RAG features:
+- Embedding generation + vector search restricted to the selected product.
+- Context-aware answers strictly limited to stored product data.
+
+#### Deployment:
+- Fully deployed on Vercel with environment-based API routing.
+- MongoDB Atlas connection with secure environment variables.
+- Automatic CI via GitHub branch, Vercel preview deployments.
 
 ### [💳 Simple Banking System — Full Stack](https://github.com/jamesmcdonald112/simple-banking-system-full-stack)
 
